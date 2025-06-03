@@ -2,11 +2,13 @@
 
 ###
 
-<p align="left">I'm Pablo Gracia, a junior in high school in California. I love writing software and everything having to do with computers and networks.<br>Read more about me on my website.</p>
+<p align="left">I'm Pablo Gracia, a junior in high school in California. I love writing software and everything having to do with computers and networks.<br><a href="https://pablogracia.net">Read more</a></p>
 
 ###
 
 <h2 align="left">about</h2>
+
+<p>most impressive/convoluted project: <a href="https://github.com/try-supernova/supernova">supernova</a> (still in development)</p>
 
 ###
 
